@@ -1,6 +1,6 @@
 # TeslaSalesDashboard-With-PowerBI
 
-![image alt](image_url)
+![image alt](https://github.com/iammigjoe/TeslaSalesDashboard-With-PowerBI/blob/main/TeslaDashBoard.png?raw=true)
 
 🚗 Tesla Stock Dashboard – Power BI (FR / EN)
 
